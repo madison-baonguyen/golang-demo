@@ -1,0 +1,8 @@
+# ignore env
+.env
+
+#ignore mod and sum
+go.mod
+go.sum
+
+
